@@ -1,8 +1,6 @@
-langchain
-langchain-core
-langchain-google-genai
-tavily-python
-requests
-beautifulsoup4
-python-dotenv
-streamlit
+streamlit>=1.40.0
+python-dotenv>=1.0.1
+google-genai>=1.0.0
+plotly>=5.22.0
+pypdf>=4.2.0
+python-docx>=1.1.2
